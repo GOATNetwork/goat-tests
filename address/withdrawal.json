@@ -1,0 +1,152 @@
+[
+  {
+    "Network": "mainnet",
+    "BtcAddress": "1Lb1PdoTEKqCpsBndwqKTpSxdJ1uKSR1LH",
+    "AddressType": "TypePubkeyHash",
+    "BridgeFormat": "0x00d6d8dbbd46c7660eab22d13a95bd2b7b29ae8b2f"
+  },
+  {
+    "Network": "mainnet",
+    "BtcAddress": "3CXKaprmor75v3VV1mW2Kea3AnD4QGzoP4",
+    "AddressType": "TypeScriptHash",
+    "BridgeFormat": "0x01c8f309b46dd9d102e645986ac1fb9a18053945c6"
+  },
+  {
+    "Network": "mainnet",
+    "BtcAddress": "bc1qy6qm5mcum4klhksu53qd5kc3nhzqvkjk63v03f",
+    "AddressType": "TypeWitnessPubkeyHash",
+    "BridgeFormat": "0x022681ba6f1cdd6dfbda1ca440da5b119dc4065a56"
+  },
+  {
+    "Network": "mainnet",
+    "BtcAddress": "bc1qvthut25egy3jp7asw4dgf4rlr4ynwtcg4pnat8mdnsf5rfh6vrxqtueu8t",
+    "AddressType": "TypeWitnessScriptHash",
+    "BridgeFormat": "0x0362efc5aa99412320fbb0755a84d47f1d49372f08a867d59f6d9c1341a6fa60cc"
+  },
+  {
+    "Network": "mainnet",
+    "BtcAddress": "bc1qnufmlus56zyf2ufq3g4z4879n0fsh7yeznfkv4k6dkvd235tujwq5hk9vm",
+    "AddressType": "TypeTaproot",
+    "BridgeFormat": "0x049f13bff214d0889571208a2a2a9fc59bd30bf89914d36656da6d98d5468be49c"
+  },
+  {
+    "Network": "regtest",
+    "BtcAddress": "mqEgATpvdzTNpdpCRAomE9nCH8cw7Sp4R3",
+    "AddressType": "TypePubkeyHash",
+    "BridgeFormat": "0x006a9d23174484d7ba74f7bc2a64ed102b48462675"
+  },
+  {
+    "Network": "regtest",
+    "BtcAddress": "2Mu3CdYeLs1Jb7ywDwfgtE58u5z1yseD2KN",
+    "AddressType": "TypeScriptHash",
+    "BridgeFormat": "0x01e752abd05505b7224cd170843ad2aee91d901570"
+  },
+  {
+    "Network": "regtest",
+    "BtcAddress": "bcrt1qy728d54p6ftlpnwvfpjpkdne6sg3saq4qzezpx",
+    "AddressType": "TypeWitnessPubkeyHash",
+    "BridgeFormat": "0x02279476d2a1d257f0cdcc48641b3679d411187415"
+  },
+  {
+    "Network": "regtest",
+    "BtcAddress": "bcrt1q8kk55x5qcwf97a9y3apfam9yx3q2mc9wu02ak6yquua5wjtpvvwsggh3r2",
+    "AddressType": "TypeWitnessScriptHash",
+    "BridgeFormat": "0x033dad4a1a80c3925f74a48f429eeca43440ade0aee3d5db6880e73b474961631d"
+  },
+  {
+    "Network": "regtest",
+    "BtcAddress": "bcrt1qpjzz885yglnu8dr3kfnnvc27kakyw4w9h9z3vdmftrchurdyvj8srq7d9m",
+    "AddressType": "TypeTaproot",
+    "BridgeFormat": "0x040c84239e8447e7c3b471b26736615eb76c4755c5b94516376958f17e0da4648f"
+  },
+  {
+    "Network": "mainnet",
+    "BtcAddress": "1K89Y39HrQJiK72agDD3KCFRjcUgYmubvA",
+    "AddressType": "TypePubkeyHash",
+    "BridgeFormat": "0x00c6cc4cf41a5577ec4417dcfe50a8ef16876cfd44"
+  },
+  {
+    "Network": "mainnet",
+    "BtcAddress": "32JRFBdWFv2LniiF7oXsP8dmbbQkU4AV2X",
+    "AddressType": "TypeScriptHash",
+    "BridgeFormat": "0x01953f81791f3a75e771c1b96f6bc017cb09581324"
+  },
+  {
+    "Network": "mainnet",
+    "BtcAddress": "bc1q3gnxw7j4540ywp3d4fsseyt7ksdzent43w22er",
+    "AddressType": "TypeWitnessPubkeyHash",
+    "BridgeFormat": "0x028a26677a55a55e47062daa610c917eb41a2ccd75"
+  },
+  {
+    "Network": "mainnet",
+    "BtcAddress": "bc1qfjs0gd085v2qhaw00hyz98thmvwsd0qrlw39y2jxv3vzlmladeqq57apcg",
+    "AddressType": "TypeWitnessScriptHash",
+    "BridgeFormat": "0x034ca0f435e7a3140bf5cf7dc8229d77db1d06bc03fba2522a4664582feffd6e40"
+  },
+  {
+    "Network": "mainnet",
+    "BtcAddress": "bc1q37fq0de4z9qj3nlpwrexw0xgwqh9zedfx53nlenr8eshawy3tmescjawmr",
+    "AddressType": "TypeTaproot",
+    "BridgeFormat": "0x048f9207b735114128cfe170f2673cc8702e5165a935233fe6633e617eb8915ef3"
+  },
+  {
+    "Network": "regtest",
+    "BtcAddress": "n3nuK4yyWcPVwUZ2cUK2894gWiVn6hDdp4",
+    "AddressType": "TypePubkeyHash",
+    "BridgeFormat": "0x00f456eed74c317a9e6a3ce73b4bce0de925e8906e"
+  },
+  {
+    "Network": "regtest",
+    "BtcAddress": "2NC432XSk1VLnFZ9evKDog1SkcoXjRdeL76",
+    "AddressType": "TypeScriptHash",
+    "BridgeFormat": "0x011cfb6e6819b13a083b6a54d689531149ec83b8e7"
+  },
+  {
+    "Network": "regtest",
+    "BtcAddress": "bcrt1qxja6ry0xudwujxmk7gvwt5vhml373gcv2sns5s",
+    "AddressType": "TypeWitnessPubkeyHash",
+    "BridgeFormat": "0x0234bba191e6e35dc91b76f218e5d197dfe3e8a30c"
+  },
+  {
+    "Network": "regtest",
+    "BtcAddress": "bcrt1qpfggvkjrl008055zq40sfj8aufuwmnapxxhsmud26c33xvdj4agszcv3lv",
+    "AddressType": "TypeWitnessScriptHash",
+    "BridgeFormat": "0x030a50865a43fbde77d282055f04c8fde278edcfa131af0df1aad6231331b2af51"
+  },
+  {
+    "Network": "regtest",
+    "BtcAddress": "bcrt1q7x3d647w0gjc6ru2jeyyuhhwzfwurmsgxk0ndanfu2vm9hwsjppsfwcpgu",
+    "AddressType": "TypeTaproot",
+    "BridgeFormat": "0x04f1a2dd57ce7a258d0f8a96484e5eee125dc1ee08359f36f669e299b2ddd09043"
+  },
+  {
+    "Network": "mainnet",
+    "BtcAddress": "17RW87qGzg4s7w3idtsuFW1nuyTMF7ZWhN",
+    "AddressType": "TypePubkeyHash",
+    "BridgeFormat": "0x0046730c5765706c000e3c878c3af4ac158915387a"
+  },
+  {
+    "Network": "mainnet",
+    "BtcAddress": "3Lp2YYuGr6BE2E9iX7X6WgxwVefH39H3HD",
+    "AddressType": "TypeScriptHash",
+    "BridgeFormat": "0x01ddcd3c9382370d3eb2d1503bb2aecc92b96c7af1"
+  },
+  {
+    "Network": "mainnet",
+    "BtcAddress": "bc1qr0vxvmg53yqfshngvyp5udhfhsz9609p869ysc",
+    "AddressType": "TypeWitnessPubkeyHash",
+    "BridgeFormat": "0x021bd8666d148900985e6861034e36e9bc045d3ca1"
+  },
+  {
+    "Network": "mainnet",
+    "BtcAddress": "bc1q6rk5c8frghehzysug3m47q856dcwsrp6pd980yc8rd8g955rwppqhy6kdh",
+    "AddressType": "TypeWitnessScriptHash",
+    "BridgeFormat": "0x03d0ed4c1d2345f371121c44775f00f4d370e80c3a0b4a7793071b4e82d2837042"
+  },
+  {
+    "Network": "mainnet",
+    "BtcAddress": "bc1qpg5y5f7hgtllvmeudjf986rk5r5wgr7ucf4qvymxpyaj8qfpulnsa4pmv2",
+    "AddressType": "TypeTaproot",
+    "BridgeFormat": "0x040a284a27d742fff66f3c6c9253e876a0e8e40fdcc26a061366093b238121e7e7"
+  }
+]

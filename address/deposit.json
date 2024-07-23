@@ -1,0 +1,182 @@
+[
+  {
+    "Network": "mainnet",
+    "UserEVMAddress": "0x748046b0ac288edbda34c7430ca889509444f8ce",
+    "PosPubkey": "03aebbdb855c88c738a8b0ac5ef0bad575456e8c1a476c2ff8ae937194b6dcde51",
+    "Address": "bc1qg4mmv8ed2aj4dad7acwqegazmwp0gc5rxfhrad7kn5g69d4cj3zsjjw7tr"
+  },
+  {
+    "Network": "regtest",
+    "UserEVMAddress": "0xa67beb186186973b919878c69e08cbdc29d5ded8",
+    "PosPubkey": "03256d0a7eb79cf27906741c7ebeb13e1fa0ef952283705a83c378560d6884649b",
+    "Address": "bcrt1qs29zg94324jufc8cc8ygmv9w3fxj7d3j4mnswnn7cjgsk2cqmytqhd3cy4"
+  },
+  {
+    "Network": "mainnet",
+    "UserEVMAddress": "0xf953123af4eec408376d90f710735f285790f7ff",
+    "PosPubkey": "03be5126f46d65f1ff4efa5a27dea5cd8187ed5d4f62bc873b55a1bb8dec23b78c",
+    "Address": "bc1q2swlayy7kycnndww9k77gulg7nxpj2q367qrejc0cljwz70f7w8s9e5unf"
+  },
+  {
+    "Network": "regtest",
+    "UserEVMAddress": "0x5b95b40cb8a6b96e137fb4e177a546d9478d150c",
+    "PosPubkey": "028296667c953461194baa9adb3f5dd24e562bbcda9ed0de59e141937d405d5a44",
+    "Address": "bcrt1qzgjcpsj3ks55vu4keekwrj8585uhr50vyupk94tdeu78jv253fsqvjmx84"
+  },
+  {
+    "Network": "mainnet",
+    "UserEVMAddress": "0x5e26ef8b077274e83d92d03d651bcf8e9ee3a811",
+    "PosPubkey": "03bf87994927027bd5e1c705941db931d2fbca09d5b35c036d4e09ec90aa8d3d7a",
+    "Address": "bc1q0q3twvg9qyq9wzn0v0lmhg6jf2sv6jeawnau2v93vegfd6mmaptsdh0dem"
+  },
+  {
+    "Network": "regtest",
+    "UserEVMAddress": "0xceff223e2385f8e8b30eebf46eb6ddf0b40ff424",
+    "PosPubkey": "027297461f16e3efe5ee1d5dd744e794caf874af0c3d4ddd3d51d448c778876c1e",
+    "Address": "bcrt1q9w3xc76kuy986uyk32m3n8pxxsz7pj63d2krpw84v4t0adslg84qp4560n"
+  },
+  {
+    "Network": "mainnet",
+    "UserEVMAddress": "0xa75d4a6e4878eac3b0250b030aef8c868117e09d",
+    "PosPubkey": "034df3efaf7e17774f698c43e9b081429a8beb600f392cd2e3a78dde1d88a89e1b",
+    "Address": "bc1qu2vycvwzv9xc5g5mmdz9gvd0890m2tx87ur44qqvksyphkyn07rsq6zees"
+  },
+  {
+    "Network": "regtest",
+    "UserEVMAddress": "0xc11191cf37d41307c88296ce346dea4030648153",
+    "PosPubkey": "02edaf13a58d15e47e0a2fe7fc29f76d594239c0306a62a2fc6244409aca2330a5",
+    "Address": "bcrt1q088kuwwunrq6pl302pgkdphx6z4jmfvyzef384nm8uyw8d0n6gtqmrq00p"
+  },
+  {
+    "Network": "mainnet",
+    "UserEVMAddress": "0xd552427899ad45f55bade0ade3404419fc0d172c",
+    "PosPubkey": "0223b2d37e026a4686447c508b43394a7db9998af189aef82d7e9015b8182f5fd0",
+    "Address": "bc1qzul8m4k9q6xcs2efnhcpmazzvhxn848rhl7zr7r8fugyyz7fnk2sr8x52z"
+  },
+  {
+    "Network": "regtest",
+    "UserEVMAddress": "0x1a78868c712f3009e9a0e0d29d5698ae2dd92bd6",
+    "PosPubkey": "031b17e133094cde51101d0e952b4e42e57717f46f44b90a1594f6e0fca399c05d",
+    "Address": "bcrt1q88n4dek4wwjvte73z6dqgfzdyc7r34cw2823vev94wwmumulvsfqdruf6k"
+  },
+  {
+    "Network": "mainnet",
+    "UserEVMAddress": "0x5ec3f6d539852d19461834fcdc35d16890c91ad0",
+    "PosPubkey": "03c6c690d61256dafd7e6aa1d579fe0f97c4816e42f5771c72d89f7994a6dd9438",
+    "Address": "bc1qcf8ckz39tr0q5l789ve4093y8q632vct4ycenhuzcd762x4njf3svgrtwy"
+  },
+  {
+    "Network": "regtest",
+    "UserEVMAddress": "0xf1ddc2f60390c1172f4d0e3c2c435d2fa642a3a1",
+    "PosPubkey": "036dd9e7d475e5e0eee606ef10b48b196c9cafce5e29fc0f94df630bdd2a4eba34",
+    "Address": "bcrt1q8kfgwgg3r8srmxkrzwlpelm8yqd0g97k3e5tx4hz2j9a66x9qepq5c3suw"
+  },
+  {
+    "Network": "mainnet",
+    "UserEVMAddress": "0x8bbe58668036d00192dc9e773114910478bb0957",
+    "PosPubkey": "020f66aca39d128a18d4ddfe4bf77bc2a7cb9d78978c727310bcbd1f97c0a044a4",
+    "Address": "bc1qnykcar4lcwpe6tj9urxuxwwjwzsrh8972xwljhewnhyq5npf3kzsyzwq62"
+  },
+  {
+    "Network": "regtest",
+    "UserEVMAddress": "0xc3cc1ebb037b8c8238d6cf4d79e4038223e363cd",
+    "PosPubkey": "02edd2b9bcbdc775385a7f4c8835111479946d08bab4c739988114825d17c6eca0",
+    "Address": "bcrt1qw89swj8x3p9st2t2jekr95x8cmt8ecehramv4gegrzz2fp7f6zxqu4dp7g"
+  },
+  {
+    "Network": "mainnet",
+    "UserEVMAddress": "0x35a04da4e9d778b022c1d6a59edbb32c35f8de52",
+    "PosPubkey": "03b32a771efaf1bd011481ddeefeea891efac660684d0089196b92d7f9b5ff7173",
+    "Address": "bc1qc3crec7r5dfww6g5w0usq773meqyqt945wj2d2hvv77sa8rh5d7s5r78lg"
+  },
+  {
+    "Network": "regtest",
+    "UserEVMAddress": "0x5310bcdbd79c3e446b776acf5b08c8e99d8a9aea",
+    "PosPubkey": "033aaa1f0dbe48eb6338ef866181d944a1cc9c24dfaaa66dc52a2b46b3fc3f0484",
+    "Address": "bcrt1qggs95dlkzeyulqhykt9vc8xf46dep8z5g4thmkh2frc4n3xuzmnsxl64kv"
+  },
+  {
+    "Network": "mainnet",
+    "UserEVMAddress": "0x2f7e76d1d243c863f1bad6c743b3152b7d5baca5",
+    "PosPubkey": "0213480bb4e8608f0a6a624067a8b61222ec4f185ef67afdf5bfb230e6874e7d01",
+    "Address": "bc1quyqlqdvc54tfeuv5mt4wyf0rvfj3ygvnpgnywgj47cj3kuvee0rsc4q22x"
+  },
+  {
+    "Network": "regtest",
+    "UserEVMAddress": "0xc7ec6c34e10c3f8c2e0f8397e074f43e33263c74",
+    "PosPubkey": "0204c25b6df630e179da7005b4fd9e2c96b1767f49ded2dd1ff5c63e4265a8827a",
+    "Address": "bcrt1q74q7adxe78y6gt9at82wjma54npqhuxv96mtn4uxlrda2a79qe9s5gh063"
+  },
+  {
+    "Network": "mainnet",
+    "UserEVMAddress": "0x9240de2433340854456f1775d66c69ba2a392371",
+    "PosPubkey": "0292c21ee3d57cfcfa7423122b9ece305f4f70f76a876228fc59074548d7f128cb",
+    "Address": "bc1qvqkana74qvzsj433l5f9p5a68uvdw6ypteyspsupqnhmv86q9x7qa9rfhj"
+  },
+  {
+    "Network": "regtest",
+    "UserEVMAddress": "0xd8bf9681dbbb5a071ce5c4a583bb8ac7b13a4628",
+    "PosPubkey": "021e6fb15d837514c7b6344815af0608c575eb5b1a5d95630274279c2afc6987ca",
+    "Address": "bcrt1q2hj7k5xxqcts9hfp9psyycarnl4wwvznryw8znpk9z3xj4apvr8qjlgdqn"
+  },
+  {
+    "Network": "mainnet",
+    "UserEVMAddress": "0xfcae7d3ad3f0ac64c49efa7ed23c4581deb94acb",
+    "PosPubkey": "03b1f13842b0c63cce657f40807036bc4bfebc104203d8a51cce0f81018bde1914",
+    "Address": "bc1qxt9wwt9xeamtnwctd0marz6jtgc6qztk7lz6a483vtfh278zxqgsfjvruk"
+  },
+  {
+    "Network": "regtest",
+    "UserEVMAddress": "0xbbff334449e6b60063f37c9847cee4ba9cc98574",
+    "PosPubkey": "031fa209242d29d2d73e08032bbefea358e0fbd2cd97cf51f66d11eafc1989b60a",
+    "Address": "bcrt1qncp7epqavz9zewferkhsd76turjet6qfm4r4l87km6f5u6w7wu4qhftlta"
+  },
+  {
+    "Network": "mainnet",
+    "UserEVMAddress": "0xa4d80e2d9822e63fb4b792e00f8c8a1bb493f204",
+    "PosPubkey": "032d5e7e91f589998974ce70387b7ea808f1ea155b59e718ff81c50aa8a05dc190",
+    "Address": "bc1qca4z2770v0884e3mje8jxm9sfy5a2h4ex4hvqxdr5ja98ynaxxpspwemvy"
+  },
+  {
+    "Network": "regtest",
+    "UserEVMAddress": "0x98ced2cfa192e698a8a4601edc63b8e5ce5db39c",
+    "PosPubkey": "03aba2a07bd82ece38a82f9126b3ac62302f835db3db08c413bffdb39f9c039a49",
+    "Address": "bcrt1qk0p30tpssr5vny6det343g3n2eshdr5p2wpl29pa6qva4dnpv6rsym830e"
+  },
+  {
+    "Network": "mainnet",
+    "UserEVMAddress": "0x1f12fe06cc8583e7d34275221ba6f4ad9bcd44a5",
+    "PosPubkey": "02fb8fd7e11696e1391fc49e3991c436f43b7743e313ed38dc7e2c8ccc68819fb9",
+    "Address": "bc1q388k33w2dmlxcw87ktqrdudfjdt2u8jh0j7gqmu2ccfmfnlpp8psvwxtp4"
+  },
+  {
+    "Network": "regtest",
+    "UserEVMAddress": "0x57381d21e52f59fc0f5a43f22acbc74c427fcbc3",
+    "PosPubkey": "03bc6f4a77390c8a887801ad3b3a053d1cdf48537cbe174baf091061c0a4f8c958",
+    "Address": "bcrt1qnatk9rz6cvzv44tu9ewl5juadq403g35klytf5rkehsqzv9qz8eq7k4ddj"
+  },
+  {
+    "Network": "mainnet",
+    "UserEVMAddress": "0x65e4bb17d1b84bd3134b9c74b8c5b4df1900b973",
+    "PosPubkey": "03c59d4faabf1efc607439e0b761e947db67098ca8d1fe2d9f587b64ee1fd07e51",
+    "Address": "bc1q3mw69wq5x8gl9qhms2c05lmk97jk2sk5ef3g2rw7jy7w2n3je7nsyh75cs"
+  },
+  {
+    "Network": "regtest",
+    "UserEVMAddress": "0x6c994076c9c3acf8a30dc639e66fe9f48522e3f5",
+    "PosPubkey": "03be424e254c643b6ba34bc3a2af40f2263a5bea8bc0ad01264c4fe762fe031a2e",
+    "Address": "bcrt1q6epl7p400eeuav8zzk9k95j7ym30k2aw4ydvs0642vx5p2ksfhesa0kf7x"
+  },
+  {
+    "Network": "mainnet",
+    "UserEVMAddress": "0xf90306f707037f4369efd5129d349a25439ed790",
+    "PosPubkey": "031cf6c372da4b8fada44384635bca755a375e02e1970a3121123053334e116bc8",
+    "Address": "bc1qqgr63jhgyg73alasvwpfys3k9rflux75cauffrr8nwkftjrukn2saezzwl"
+  },
+  {
+    "Network": "regtest",
+    "UserEVMAddress": "0x872513459be844bc3588947caa38418e118e4ee5",
+    "PosPubkey": "03093603092ed9751614dfa74749d4f456d7620710658fe34d274b8c4fd0b6a87c",
+    "Address": "bcrt1qy5yrnycsqp66wkz80d90q9tsharvrljynu9f4p48xas8da657c2q3httwv"
+  }
+]
